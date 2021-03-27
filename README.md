@@ -70,4 +70,4 @@ For this project, I mainly focused on logic rather than GUI.
 - Created basic GUI (improved by melissa)
 
 Carlos
-- ... lol
+- Troubleshooting
