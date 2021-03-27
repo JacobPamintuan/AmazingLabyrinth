@@ -13,7 +13,7 @@ Here are the given instructions from our teacher:
 1. Randomly distribute the movable tiles on the board
 2. Shuffle and deal the treasure cards
 
-<p align="center">##### On a Turn:</p>
+##### On a Turn:
 
 1. You must first insert the ‘extra’ tile into the maze
     - Tile movement cannot be “reversed” in successive turns so you can’t insert the extra tile into the opposite side where your opponent just played (i.e. no ‘back and forth’ tile moves allowed)
