@@ -8,12 +8,12 @@ The game has four players, and at the start of the game, they can choose to hunt
 
 Here are the given instructions from our teacher:
 
-##### Setup:
+#### Setup:
 
 1. Randomly distribute the movable tiles on the board
 2. Shuffle and deal the treasure cards
 
-##### On a Turn:
+#### On a Turn:
 
 1. You must first insert the ‘extra’ tile into the maze
     - Tile movement cannot be “reversed” in successive turns so you can’t insert the extra tile into the opposite side where your opponent just played (i.e. no ‘back and forth’ tile moves allowed)
@@ -29,7 +29,7 @@ Here are the given instructions from our teacher:
 ---
 ### Some Screenshots:
 
-##### # of Cards Selection:
+<p align="center"> **# of Cards Selection:**</p>
 ![Card Selection](https://user-images.githubusercontent.com/36178603/112704952-fdc69d00-8e72-11eb-8766-b735a59b34cf.png)
 
 
