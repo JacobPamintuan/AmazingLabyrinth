@@ -29,16 +29,24 @@ Here are the given instructions from our teacher:
 ---
 ### Some Screenshots:
 
-##### # of Cards Selection
+##### # of Cards Selection:
 ![Card Selection](https://user-images.githubusercontent.com/36178603/112704952-fdc69d00-8e72-11eb-8766-b735a59b34cf.png)
 
 
-##### Start of the game, randomized board, each player dealt 3 cards
+##### Start of the game, randomized board, each player dealt 3 cards:
 ![Game Start](https://user-images.githubusercontent.com/36178603/112704942-f0a9ae00-8e72-11eb-9249-9b67f0ffbe01.png)
 
 
-##### Instructions
+##### Instructions:
 ![Instructions](https://user-images.githubusercontent.com/36178603/112704959-0d45e600-8e73-11eb-8dd3-8e287f924f21.png)
+
+##### Treasure Collected! - Card turns Green, Score Increased
+
+https://user-images.githubusercontent.com/36178603/112705192-0a97c080-8e74-11eb-9dd4-4afa26be8663.mov
+
+
+![Card Found](https://user-images.githubusercontent.com/36178603/112705146-da502200-8e73-11eb-8250-ccf939611f1f.png)
+
 
 
 ---
