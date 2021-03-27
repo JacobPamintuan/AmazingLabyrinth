@@ -1,6 +1,6 @@
 # AmazingLabyrinth
 
-THis was project one of the ICS4U course. The goal of the project was to digitalize *THE aMAZEing LABYRINTH* boardgame. The goal of the game is to collect all of your treasure(s) before the others. Each player gets the chance to manipulate the board by inserting a piece and shifting a row or column in order to clear a path, block your opponents, or strategically place yourself for the next move. 
+This was project one of the ICS4U course. The goal of the project was to digitalize *THE aMAZEing LABYRINTH* boardgame. The goal of the game is to collect all of your treasure(s) before the others. Each player gets the chance to manipulate the board by inserting a piece and shifting a row or column in order to clear a path, block your opponents, or strategically place yourself for the next move. 
 
 The game has four players, and at the start of the game, they can choose to hunt for 1-6 treasures. If a player lands on one of their treasures, its corresponding card turns green. Once one of the player collects all of their treasures, the game ends. 
 
@@ -21,8 +21,18 @@ Here are the given instructions from our teacher:
 2. Then move (or choose to stay still) on each turn
     - You may land on a treasure (and turn over the matching card in your hand) or else move to a more advantageous position for a future possible move
 
----
+##### Modified Rules (Where our game deviates from the original Amazing Labyrinth):
+- Deal out 1 to 6 treasure cards face up to each player (there may be extra cards left over)
+- You can recover the treasures in any order (does not have to be the order they are dealt)
+- A player ‘wins’ when they reach their last treasure (no need to return ‘home’)
 
+---
+### Some Screenshots:
+
+![Screen Shot 2021-03-26 at 8 05 13 PM](https://user-images.githubusercontent.com/36178603/112704862-8c86ea00-8e72-11eb-8eb2-52b7b31fd255.png)
+
+
+---
 ### Group Contributions
 See the [test Class](.src/amazingLabyrinth/LabyrinthTest.java) for a more detailed description.
 
