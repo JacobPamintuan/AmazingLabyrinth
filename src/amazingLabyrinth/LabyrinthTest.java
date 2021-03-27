@@ -1,9 +1,12 @@
 /**
- * Jacob Pamintuan (33 ⅓%): Shifted tiles, shifted tokens, validate token moves, validate winner,
- * troubleshooted refresh GUI, disabled and enabled proper buttons
- * Melissa Ramdial (33 ⅓%): Created image file and text files, troubleshooted errors with generating random board,
+ * Jacob Pamintuan (60%): Shifted tiles, shifted tokens, validate token moves, validate winner,
+ * troubleshooted refresh GUI, disabled and enabled proper buttons, Rotated free tile, 
+ * troubleshooted two token shifting errors, created move buttons, created popup for end game, shuffled cards
+ *
+ * Melissa (35%): Created image file and text files, troubleshooted errors with generating random board,
  * shuffled and assigned cards, created and designed instructions frame, enhanced overall look and functionality of GUI, created JMenu
- * Carlos Wong (33 ⅓%): Rotated free tile, troubleshooted two token shifting errors, created move buttons, created popup for end game, helped shuffle cards
+ *
+ * Carlos (5%): Helped with troubleshooting
  * 
  * Date: Sunday, November 29, 2020
  * 
