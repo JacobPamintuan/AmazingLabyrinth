@@ -29,8 +29,9 @@ public class LabyrinthGUI extends JFrame implements ActionListener {
 	// Constructor
 	public LabyrinthGUI() {
 		
-		// Sets size and layout, null meaning using coordinates
-		setSize(1700, 1000);
+		// Sets default size and layout, null meaning using coordinates
+		setSize(1400, 1000);
+		setResizable(false);
 		getContentPane().setLayout(null);
 
 		// Selects starting free tile
@@ -162,7 +163,7 @@ public class LabyrinthGUI extends JFrame implements ActionListener {
 			LabyrinthTest.app.repaint();
 
 		} else if (e.getSource() == card4) {
-			// 4 Cards
+			// 4 Cards - Changes Size
 			card = new CardLayout(4);
 			card.setBounds(960, 100, 480, 528);
 			getContentPane().add(card);
@@ -175,12 +176,14 @@ public class LabyrinthGUI extends JFrame implements ActionListener {
 			card6.setEnabled(false);
 			
 			instructions.setEnabled(true);
+			
+			setSize(1500, 1000);
 
 			LabyrinthTest.app.revalidate();
 			LabyrinthTest.app.repaint();
 
 		} else if (e.getSource() == card5) {
-			// 5 Cards
+			// 5 Cards - Changes size
 			card = new CardLayout(5);
 			card.setBounds(960, 100, 576, 528);
 			getContentPane().add(card);
@@ -194,11 +197,13 @@ public class LabyrinthGUI extends JFrame implements ActionListener {
 			
 			instructions.setEnabled(true);
 
+			setSize(1600, 1000);
+
 			LabyrinthTest.app.revalidate();
 			LabyrinthTest.app.repaint();
 
 		} else if (e.getSource() == card6) {
-			// 6 Cards
+			// 6 Cards - Changes size
 			card = new CardLayout(6);
 			card.setBounds(960, 100, 672, 528);
 			getContentPane().add(card);
@@ -211,6 +216,8 @@ public class LabyrinthGUI extends JFrame implements ActionListener {
 			card6.setEnabled(false);
 			
 			instructions.setEnabled(true);
+
+			setSize(1700, 1000);
 
 			LabyrinthTest.app.revalidate();
 			LabyrinthTest.app.repaint();
