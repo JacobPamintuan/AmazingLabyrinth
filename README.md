@@ -30,7 +30,6 @@ Here are the given instructions from our teacher:
 ### Some Screenshots:
 
 ###### of Cards Selection:
-
 ![Card Selection](https://user-images.githubusercontent.com/36178603/112704952-fdc69d00-8e72-11eb-8766-b735a59b34cf.png)
 
 
@@ -42,11 +41,8 @@ Here are the given instructions from our teacher:
 <p align="center"> <b>Instructions:</b></p>
 
 ![Instructions](https://user-images.githubusercontent.com/36178603/112704959-0d45e600-8e73-11eb-8dd3-8e287f924f21.png)
-
 ##### Treasure Collected! - Card turns Green, Score Increased
 ![Card Found](https://user-images.githubusercontent.com/36178603/112705146-da502200-8e73-11eb-8250-ccf939611f1f.png)
-
-
 
 ---
 ### Group Contributions
