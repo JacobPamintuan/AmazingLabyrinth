@@ -1,6 +1,6 @@
 # Amazing Labyrinth
 
-This was project one of the ICS4U course. The goal of the project was to digitalize *THE aMAZEing LABYRINTH* boardgame. The goal of the game is to collect all of your treasure(s) before the others. Each player gets the chance to manipulate the board by inserting a piece and shifting a row or column in order to clear a path, block your opponents, or strategically place yourself for the next move. 
+This was Project 1 of 3 of the ICS4U course. The goal of the project was to digitalize *THE aMAZEing LABYRINTH* boardgame. The goal of the game is to collect all of your treasure(s) before the others. Each player gets the chance to manipulate the board by inserting a piece and shifting a row or column in order to clear a path, block your opponents, or strategically place yourself for the next move. 
 
 The game has four players, and at the start of the game, they can choose to hunt for 1-6 treasures. If a player lands on one of their treasures, its corresponding card turns green. Once one of the player collects all of their treasures, the game ends. 
 
