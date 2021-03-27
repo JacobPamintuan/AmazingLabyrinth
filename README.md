@@ -35,6 +35,7 @@ Here are the given instructions from our teacher:
 
 
 <p align="center"> <b>Start of the game, randomized board, each player dealt 3 cards:<b/></p>
+
 ![Game Start](https://user-images.githubusercontent.com/36178603/112704942-f0a9ae00-8e72-11eb-9249-9b67f0ffbe01.png)
 
 
