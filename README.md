@@ -29,14 +29,13 @@ Here are the given instructions from our teacher:
 ---
 ### Some Screenshots:
 
-![Card Selection](https://user-images.githubusercontent.com/36178603/112704952-fdc69d00-8e72-11eb-8766-b735a59b34cf.png)
 ###### # of Cards Selection
-
-![Game Start](https://user-images.githubusercontent.com/36178603/112704942-f0a9ae00-8e72-11eb-9249-9b67f0ffbe01.png)
+![Card Selection](https://user-images.githubusercontent.com/36178603/112704952-fdc69d00-8e72-11eb-8766-b735a59b34cf.png)
 ###### Start of the game, randomized board, each player dealt 3 cards
-
-![Instructions](https://user-images.githubusercontent.com/36178603/112704959-0d45e600-8e73-11eb-8dd3-8e287f924f21.png)
+![Game Start](https://user-images.githubusercontent.com/36178603/112704942-f0a9ae00-8e72-11eb-9249-9b67f0ffbe01.png)
 ###### Instructions
+![Instructions](https://user-images.githubusercontent.com/36178603/112704959-0d45e600-8e73-11eb-8dd3-8e287f924f21.png)
+
 
 ---
 ### Group Contributions
