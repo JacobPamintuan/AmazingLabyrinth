@@ -10,21 +10,21 @@ Here are the given instructions from our teacher:
 
 ##### Setup:
 
-Randomly distribute the movable tiles on the board
-Shuffle and deal the treasure cards
+1. Randomly distribute the movable tiles on the board
+2. Shuffle and deal the treasure cards
 
 ##### On a Turn:
 
-You must first insert the ‘extra’ tile into the maze
-Tile movement cannot be “reversed” in successive turns so you can’t insert the extra tile into the opposite side where your opponent just played (i.e. no ‘back and forth’ tile moves allowed)
+1. You must first insert the ‘extra’ tile into the maze
+    - Tile movement cannot be “reversed” in successive turns so you can’t insert the extra tile into the opposite side where your opponent just played (i.e. no ‘back and forth’ tile moves allowed)
 
-Then move (or choose to stay still) on each turn
-You may land on a treasure (and turn over the matching card in your hand) or else move to a more advantageous position for a future possible move
+2. Then move (or choose to stay still) on each turn
+    - You may land on a treasure (and turn over the matching card in your hand) or else move to a more advantageous position for a future possible move
 
 ---
 
 ### Group Contributions
-See [Test Class](.src/amazingLabyrinth/LabyrinthTest.java) for a more detailed description.
+See the [test Class](.src/amazingLabyrinth/LabyrinthTest.java) for a more detailed description.
 
 Melissa
 - Created all of the new image files that were not provided by our teacher
