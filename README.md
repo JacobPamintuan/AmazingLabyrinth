@@ -1,4 +1,4 @@
-# AmazingLabyrinth
+# Amazing Labyrinth
 
 This was project one of the ICS4U course. The goal of the project was to digitalize *THE aMAZEing LABYRINTH* boardgame. The goal of the game is to collect all of your treasure(s) before the others. Each player gets the chance to manipulate the board by inserting a piece and shifting a row or column in order to clear a path, block your opponents, or strategically place yourself for the next move. 
 
