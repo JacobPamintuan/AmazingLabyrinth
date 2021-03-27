@@ -29,8 +29,7 @@ Here are the given instructions from our teacher:
 ---
 ### Some Screenshots:
 
-# of Cards Selection:
-
+###### of Cards Selection:
 ![Card Selection](https://user-images.githubusercontent.com/36178603/112704952-fdc69d00-8e72-11eb-8766-b735a59b34cf.png)
 
 
