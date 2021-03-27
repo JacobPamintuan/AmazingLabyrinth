@@ -46,7 +46,7 @@ Here are the given instructions from our teacher:
 
 ---
 ### Group Contributions
-See the [test Class](.src/amazingLabyrinth/LabyrinthTest.java) for a more detailed description.
+See the [test Class](src/amazingLabyrinth/LabyrinthTest.java) for a more detailed description.
 
 Melissa
 - Created all of the new image files that were not provided by our teacher
