@@ -53,7 +53,7 @@ Melissa
 - Created all of the new image files that were not provided by our teacher
   -  Arguably what made our game look better than everyone else's
 - Helped with troubleshooting errors with generating a randomized board
-- Sbuffled and assigned cards for each player
+- Shuffled and assigned cards for each player
 - Created and designed instructions frame
 - Worked extensively on GUI to enhance the overall look and functionality
 
