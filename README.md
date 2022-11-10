@@ -59,7 +59,7 @@ Melissa
 
 Jacob (Me)
 For this project, I mainly focused on logic rather than GUI.
-- Essentially all of the game logic:
+- Game logic:
   - Shifting tiles
   - Shifting players
   - Moving players
